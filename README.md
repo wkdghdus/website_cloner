@@ -1,6 +1,11 @@
 # 🌸 Orchids Challenge – Fullstack
 
 This project provides a modern fullstack web application template tailored for the Orchids Challenge, with a FastAPI backend and a Next.js + React frontend.
+---
+
+## 🎥 Video Submission :D
+
+[![Youtube submission](https://img.youtube.com/vi/0iwPGqD_m5I/0.jpg)](https://youtu.be/0iwPGqD_m5I)
 
 ---
 
