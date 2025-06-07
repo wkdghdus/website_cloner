@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "cloning_agent": "agent/graph.py:graph"
+  },
+  "env": ".env"
+}
